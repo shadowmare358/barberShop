@@ -9,7 +9,7 @@ html{
 }
 header{
     display: flex;
-    height: 100vh;
+    height: 1000px;
     width: 100%;
     background-color: white;
     top: 0;
@@ -164,7 +164,7 @@ section h3{
 }
 
 ul{
-    margin-top: 35vh;
+    margin-top: 320px;
 }
 li{
     font-size: 25px;
@@ -254,7 +254,7 @@ section div {
    }
    
     header{
-        height: 100vh;
+        height: 570px;
     }
     ul{
         margin-top: 19vh;
@@ -1930,7 +1930,7 @@ ul{
     border-radius: 20%;
 }
     header{
-        height: 60vh;
+        height: 600px;
     }
     header section {
         left: 17%;
@@ -1960,6 +1960,7 @@ section h3{
     height: 35vh;
     width: 40vw;
     left: 40vw;
+    top:20vh;
 }
 .sectionDown div{
     justify-content: center;
@@ -1985,7 +1986,7 @@ section h3{
     }
 
     header {
-        height: 100vh;
+        height: 1000px;
     }
 
     header section {
@@ -2058,7 +2059,7 @@ section h3{
          margin-top: 23vh;
      }
      header {
-         height: 80vh;
+         height: 800px;
      }
 
      header section {
@@ -2137,7 +2138,7 @@ section h3{
         margin-top: 24vh;
     }
      header {
-         height: 80vh;
+         height: 700px;
      }
 
      header section {
@@ -2222,7 +2223,7 @@ section h3{
      }
 
      header {
-         height: 80vh;
+         height: 800px;
      }
 
      header section {
@@ -2299,7 +2300,7 @@ section h3{
         margin-top: 26vh;
     }
     header {
-        height: 80vh;
+        height: 800px;
     }
 
     header section {
@@ -2374,7 +2375,7 @@ section h3{
     }
 
     header {
-        height: 100vh;
+        height: 1000px;
     }
 
     header section {
@@ -2448,7 +2449,7 @@ section h3{
     }
 
     header {
-        height: 90vh;
+        height: 900px;
     }
 
     header section {
