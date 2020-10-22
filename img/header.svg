@@ -1,0 +1,17 @@
+<svg id="Component_1_1" data-name="Component 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1919.523" height="304" viewBox="0 0 1919.523 304">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ef8ba6"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <g id="Polygon_1" data-name="Polygon 1" transform="translate(307.5 285.5) rotate(-90)" fill="#dfbad2">
+    <path d="M 267.36962890625 1610.5 L 1.630367994308472 1610.5 L 134.5 18.04023361206055 L 267.36962890625 1610.5 Z" stroke="none"/>
+    <path d="M 134.5 36.0802001953125 L 3.260711669921875 1609 L 265.7392883300781 1609 L 134.5 36.0802001953125 M 134.5 0.0001220703125 L 269 1612 L 0 1612 L 134.5 0.0001220703125 Z" stroke="none" fill="#707070"/>
+  </g>
+  <g id="Ellipse_1" data-name="Ellipse 1" stroke="#707070" stroke-width="10" fill="url(#linear-gradient)">
+    <ellipse cx="157" cy="150.5" rx="157" ry="150.5" stroke="none"/>
+    <ellipse cx="157" cy="150.5" rx="152" ry="145.5" fill="none"/>
+  </g>
+  <line id="Line_1" data-name="Line 1" y1="16" x2="1762" transform="translate(157.5 285.5)" fill="none" stroke="#707070" stroke-width="5"/>
+</svg>
