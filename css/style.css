@@ -144,9 +144,10 @@ section h2{
  font-size: 4rem;
 }
 section h3{
-    margin-left: 10vw;
-    font-size: 1rem;
-    font-weight: 400;
+    font-size: 3rem;
+    width: 30vw;
+    margin-left: 13vw;
+    margin-top: 14vh;
 }
 .header_img{
     position: absolute;
@@ -155,7 +156,7 @@ section h3{
 .header_interior{
     position: absolute;
     left: 70vw;
-    top: 40vh;
+    top: 35vh;
     width: 450px;
     height: 350px;
     border: 10px solid #a09898;
@@ -253,7 +254,10 @@ section div {
    }
    
     header{
-        height: 120vh;
+        height: 100vh;
+    }
+    ul{
+        margin-top: 19vh;
     }
     li{
         font-size: 15px;
@@ -375,7 +379,7 @@ section div {
 }
 @media (min-width: 321px) and (max-width: 350px){
       header {
-          height: 120vh;
+          height: 80vh;
       }
 
       li {
@@ -394,7 +398,7 @@ section div {
       }
 
       ul {
-          padding-top: 3vh;
+          margin-top: 20vh;
       }
 
       /* bottom line */
@@ -518,7 +522,7 @@ section div {
 }
 @media (min-width: 351px) and (max-width: 400px){
        header {
-           height: 110vh;
+           height: 80vh;
                        background-image: url("../img/backgroundFooter.png");
                        background-size: 200px;
                        background-repeat: repeat;
@@ -540,7 +544,7 @@ section div {
        }
 
        ul {
-           padding-top: 3vh;
+           margin-top:20vh;
        }
 
        /* bottom line */
@@ -669,12 +673,14 @@ section div {
 }
 @media (min-width: 401px) and (max-width: 450px) {
     header {
-        height: 110vh;
+        height: 80vh;
         background-image: url("../img/backgroundFooter.png");
         background-size: 200px;
         background-repeat: repeat;
     }
-
+ul{
+    margin-top: 20vh;
+}
     li {
         font-size: 15px;
         margin-left: 80px;
@@ -975,7 +981,9 @@ section div {
         background-size: 200px;
         background-repeat: repeat;
     }
-
+    ul{
+        margin-top: 20vh;
+    }
     li {
         font-size: 25px;
         margin-left: 80px;
@@ -1747,12 +1755,15 @@ section div {
     }
 }
 @media (min-width: 751px) and (max-width: 800px) {
+    ul{
+       margin-top: 25vh;
+    }
     header {
         z-index: 2;
         background-position-x: 100px;
         background-position-y: 170px;
         background-size: 200px;
-        height: 110vh;
+        height: 93vh;
         background-image: url("../img/backgroundFooter.png");
         background-size: 200px;
         background-repeat: repeat;
@@ -1776,10 +1787,6 @@ section div {
         height: 3px;
         top: 0;
         left: -90px;
-    }
-
-    ul {
-        padding-top: 3vh;
     }
 
     /* bottom line */
@@ -1911,10 +1918,19 @@ section div {
         height: 10vh;
     }
  li{
-     font-size:2rem;
+     font-size:1.5rem;
  }
+ .header_interior {
+    position: absolute;
+    left: 70vw;
+    top: 18vh;
+    width: 450px;
+    height: 350px;
+    border: 10px solid #a09898;
+    border-radius: 20%;
+}
     header{
-        height: 80vh;
+        height: 60vh;
     }
     header section {
         left: 17%;
@@ -1941,11 +1957,9 @@ section h3{
     font-size: 40px;
 }
 .header_interior{
-    margin-top: 20vh;
     height: 35vh;
     width: 40vw;
     left: 40vw;
-    top: 10vh;
 }
 .sectionDown div{
     justify-content: center;
@@ -2008,7 +2022,7 @@ section h3{
     }
 
     .header_interior {
-        margin-top: 5vh;
+        top: 25vh;
         height: 30vh;
         width: 25vw;
     }
@@ -2040,9 +2054,11 @@ section h3{
      li {
          font-size: 20px;
      }
-
+     ul{
+         margin-top: 23vh;
+     }
      header {
-         height: 100vh;
+         height: 80vh;
      }
 
      header section {
@@ -2079,7 +2095,7 @@ section h3{
      }
 
      .header_interior {
-         margin-top: 5vh;
+         top: 30vh;
          height: 30vh;
          width: 25vw;
      }
@@ -2114,9 +2130,12 @@ section h3{
 }
 @media(min-width: 1201px) and (max-width: 1280px){
      li {
-         font-size: 20px;
+         margin-top: 4vh;
+         font-size: 15px;
      }
-
+     ul{
+        margin-top: 24vh;
+    }
      header {
          height: 80vh;
      }
@@ -2155,7 +2174,7 @@ section h3{
      }
 
      .header_interior {
-         margin-top: 5vh;
+         top:30vh;
          height: 30vh;
          width: 25vw;
      }
@@ -2203,7 +2222,7 @@ section h3{
      }
 
      header {
-         height: 100vh;
+         height: 80vh;
      }
 
      header section {
@@ -2241,9 +2260,9 @@ section h3{
 
 
      .header_interior {
-         margin-top: 1vh;
          height: 30vh;
          width: 25vw;
+         top: 33vh;
      }
 
      .sectionDown div {
@@ -2276,7 +2295,9 @@ section h3{
     li {
         font-size: 20px;
     }
-
+    ul {
+        margin-top: 26vh;
+    }
     header {
         height: 80vh;
     }
@@ -2304,7 +2325,7 @@ section h3{
         font-size: 3rem;
         width: 30vw;
         margin-left: 10vw;
-        margin-top: 210vh;
+        margin-top: 4vh;
     }
 
     .sectionDown_h3 {
@@ -2317,7 +2338,7 @@ section h3{
 
 
     .header_interior {
-        margin-top: 0vh;
+        top:30vh;
         height: 30vh;
         width: 25vw;
     }
@@ -2390,7 +2411,7 @@ section h3{
     }
 
     .header_interior {
-        margin-top: 10vh;
+        margin-top: 3vh;
         height: 30vh;
         width: 25vw;
     }
@@ -2421,7 +2442,7 @@ section h3{
         background-size: 200px;
     }
 }
-@media(min-width: 1801px) and (max-width: 2000px) {
+@media(min-width: 1801px) and (max-width: 3000px) {
     li {
         font-size: 20px;
     }
